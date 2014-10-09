@@ -1,0 +1,6 @@
+A simple self-replicating program, because why not
+
+- compile
+- copy executable to somewhere else
+- run
+- program will write itself
